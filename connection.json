@@ -1,0 +1,26 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "a2d69103-b1ba-4722-a0f8-4658aa9f40ed",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1753625813244"
+        }
+      },
+      "favorite": {
+        "name": "brahmaHandicrafts"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjoxLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}
